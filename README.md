@@ -3,7 +3,8 @@ Grabs version string of latest firmware for ASUS products.
 
 ## Requirements:
 * Python 3
-* Selenium (and Geckodriver)
+* Selenium
+* Firefox (and geckodriver)
 * urllib3
 * argparse
 
